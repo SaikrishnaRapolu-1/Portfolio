@@ -9,7 +9,7 @@
     </div>
     <div class="links">
       <a href="https://github.com/mr6019">GitHub</a>
-      <a href="mailto:your@email.com">Email</a>
+      <a href="mailto:sairapolu724@email.com">Email</a>
       <span> | +44 7859 161416</span>
     </div>
   </header>
