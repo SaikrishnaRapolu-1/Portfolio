@@ -1,30 +1,6 @@
 # Portfolio
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Saikrishna Rapolu | DevOps Engineer Portfolio</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Portfolio of Saikrishna Rapolu, Cloud and DevOps Engineer.">
-  <link rel="stylesheet" href="styles.css">
-  <style>
-    body { font-family: Arial, sans-serif; max-width: 900px; margin: 32px auto; background: #f9f9f9; color: #222; }
-    header { text-align: center; margin-bottom: 2rem; }
-    header h1 { margin-bottom: 0.3rem; }
-    header .subtitle { color: #555; font-size: 1.2em; margin-bottom: 1rem;}
-    header .links a { margin: 0 10px; text-decoration: none; color: #0066cc;}
-    section { margin-bottom: 2em; }
-    h2 { color: #1460aa; border-bottom: 1px solid #ccd; padding-bottom: 0.3em; }
-    table { width: 100%; border-collapse: collapse; margin-bottom: 1em;}
-    th, td { border: 1px solid #ddd; padding: 0.6em; }
-    th { background: #eef2f9;}
-    ul { margin-top: 0; }
-    .projects h3 { margin-bottom: 0; }
-    .projects p { margin-top: 0; color: #444; }
-    .skills-table td { font-size: 0.96em; }
-    .edu { font-style: italic; }
-  </style>
-</head>
+
 <body>
   <header>
     <h1>Saikrishna Rapolu</h1>
