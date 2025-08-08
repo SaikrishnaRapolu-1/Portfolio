@@ -8,7 +8,7 @@
       Cloud & DevOps Engineer | MSc Advanced Computing Technologies
     </div>
     <div class="links">
-      <a href="https://github.com/mr6019">GitHub</a>
+      <a href="https://github.com/SaikrishnaRapolu-1">GitHub</a>
       <a href="mailto:sairapolu724@email.com">Email</a>
       <span> | +44 7859 161416</span>
     </div>
