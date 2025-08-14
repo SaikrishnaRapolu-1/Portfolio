@@ -17,7 +17,7 @@
   <section>
     <h2>Professional Summary</h2>
     <p>
-      Cloud and DevOps Engineer with 3+ years of hands-on experience designing, automating, and optimizing mission-critical deployments in AWS and hybrid cloud environments. Proficient in CI/CD, containerization, infrastructure as code, and modern monitoring tools. Strong academic foundation with a Master's in Advanced Computing Technologies from the University of Hertfordshire. Skilled in Python, Kubernetes, Docker, Terraform, Jenkins, and Ansible. Experienced in delivering secure, scalable, highly available systems with a focus on automation, machine learning, and cloud-native architecture.
+      Cloud and DevOps Engineer with over three years of hands-on experience designing, automating, and optimizing mission-critical deployments in AWS and hybrid cloud environments. Proficient in CI/CD, containerization, infrastructure as code, and modern monitoring tools. Strong academic foundation with a Master's in Advanced Computing Technologies from the University of Hertfordshire. Skilled in Python, Kubernetes, Docker, Terraform, Jenkins, and Ansible. Experienced in delivering secure, scalable, highly available systems with a focus on automation, machine learning, and cloud-native architecture.
     </p>
   </section>
 
